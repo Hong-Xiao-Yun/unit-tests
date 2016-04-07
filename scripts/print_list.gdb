@@ -5,8 +5,5 @@ while($_head)
 	p $_head->value
 	p $_head = $_head->next
 end
-
-
-
 end
 
